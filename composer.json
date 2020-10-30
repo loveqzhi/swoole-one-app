@@ -1,0 +1,13 @@
+{
+    "name": "loveqzhi/swoole-one-app",
+    "description": "swoole app use",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "loveqzhi",
+            "email": "loveqzhi@163.com"
+        }
+    ],
+    "require": {}
+}
