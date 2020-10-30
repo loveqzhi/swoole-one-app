@@ -9,5 +9,8 @@
             "email": "loveqzhi@163.com"
         }
     ],
-    "require": {}
+    "require": {
+        "overtrue/wechat": "^4.2",
+        "lizhichao/one": "^2.0.24"
+    }
 }
